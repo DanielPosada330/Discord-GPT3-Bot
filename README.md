@@ -1,6 +1,10 @@
 # Discord-GPT4-Bot
 The purpose of this program was to create a Discord Bot that utilized the GPT Large Language Model (LLM) so that my friends and I could
 mess with while gaming.
+
+![image](https://github.com/DanielPosada330/Discord-GPT4-Bot/assets/104124602/f3e29b27-1909-4ce8-b625-5c67acd70684)
+
+
 ## Motivation
 I wanted to practice my Python programming, while also incorporating a web server to keep the bot alive even if my main program was shut off.
 I also wanted to learn more about using APIs and how to incorporate them into a program.
