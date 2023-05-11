@@ -1,4 +1,4 @@
-# Discord-GPT4-Bot
+# Discord-GPT3-Bot
 The purpose of this program was to create a Discord Bot that utilized the GPT Large Language Model (LLM) so that my friends and I could
 mess with while gaming.
 
